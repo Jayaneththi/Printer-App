@@ -15,7 +15,7 @@ public class PrinterApp {
 		int addition;
 		number1 = 10;		
 		System.out.println("The value of number1 is "+ number1);
-		number2 = 3;
+		number2 = 18;
 		System.out.println("The value of number2 is " + number2);
 		result= number1 * number2;
 		System.out.println(number1 + " * "+ number2+" = " + result);
