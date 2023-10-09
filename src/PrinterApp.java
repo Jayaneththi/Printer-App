@@ -13,7 +13,7 @@ public class PrinterApp {
 		int number2;
 		int result;
 		int addition;
-		number1 = 5;		
+		number1 = 10;		
 		System.out.println("The value of number1 is "+ number1);
 		number2 = 3;
 		System.out.println("The value of number2 is " + number2);
@@ -25,8 +25,7 @@ public class PrinterApp {
 		devision= number1 /3.3;
 		subtraction= number1 - number2;
 		System.out.println(addition);
-		System.out.println(devision);
-		 
+		System.out.println(devision);		 
 
 	}
 
